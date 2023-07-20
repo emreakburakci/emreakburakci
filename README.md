@@ -1,4 +1,4 @@
-# Hi there 
+# Hi there ![alt](https://github.com/emreakburakci/emreakburakci/blob/main/images/bluelightsaber.png)
 
 I'm senior student at METU Computer Engineering.
 <!--
