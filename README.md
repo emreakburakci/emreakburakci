@@ -2,8 +2,6 @@
 
 # About Me
 - Senior Computer Engineering student at METU. 
-- Software Development Intern at Monad Software and Consultancy.
-
 
 - 🔭 I’m currently working on Health Management Information Systems Applications
 - 🌱 I’m currently learning Vaadin FW and Spring Boot
@@ -21,6 +19,7 @@
 # Languages, Skills and Tools
 
 - JAVA
+- .NET
 - PHP
 - C
 - Vaadin
