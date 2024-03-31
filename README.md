@@ -1,5 +1,3 @@
-# Hello there ![May the force be with you](https://github.com/emreakburakci/emreakburakci/blob/main/images/bluelightsaber.png)
-
 # About Me
 - Senior Computer Engineering student at METU. 
 
