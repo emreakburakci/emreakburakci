@@ -3,8 +3,6 @@
 # About Me
 - Senior Computer Engineering student at METU. 
 
-- 🔭 I’m currently working on Health Management Information Systems Applications
-- 🌱 I’m currently learning Vaadin FW and Spring Boot
 - 📫 How to reach me: [Send mail](emre.akburakci@metu.edu.tr)
 
 # Connect with me
@@ -30,3 +28,5 @@
 - SOLID
 - Design Patterns
 - Web Services
+- Selenium
+- React Native
