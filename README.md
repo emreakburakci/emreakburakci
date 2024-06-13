@@ -1,7 +1,7 @@
 # About Me
 - Senior Computer Engineering student at METU. 
 
-- 📫 How to reach me: [Send mail](emre.akburakci@metu.edu.tr)
+- 📫 How to reach me: emre.akburakci@metu.edu.tr
 
 # Connect with me
 
