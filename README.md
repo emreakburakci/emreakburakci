@@ -1,5 +1,6 @@
 # About Me
-- Senior Computer Engineering student at METU. 
+- Software Developer at [Düzen Soft](https://duzensoft.com/).
+- Senior Computer Engineering student at METU.
 
 - 📫 How to reach me: emre.akburakci@metu.edu.tr
 
