@@ -17,8 +17,7 @@
 
 - JAVA
 - .NET
-- PHP
-- C
+- PYTHON
 - Vaadin
 - Spring
 - Hibernate
@@ -28,4 +27,4 @@
 - Design Patterns
 - Web Services
 - Selenium
-- React Native
+- React/React Native
